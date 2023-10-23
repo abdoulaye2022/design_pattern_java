@@ -1,0 +1,15 @@
+factory_abstrait\ProduitFactory.class
+ca\tipa\patron\MoneyTransfert.class
+factory_abstrait\Poudre.class
+ca\tipa\patron\Nita.class
+factory_abstrait\CosmeticPoudreFactory.class
+factory_abstrait\Pomade.class
+singleton\Logs.class
+ca\tipa\patron\FactoryAmana.class
+ca\tipa\patron\FactoryMoneyTransfert.class
+ca\tipa\patron\Patron.class
+ca\tipa\patron\FactoryNita.class
+singleton\Warehouse.class
+ca\tipa\patron\Amana.class
+factory_abstrait\Cosmetic.class
+factory_abstrait\CosmeticPomadeFactory.class
